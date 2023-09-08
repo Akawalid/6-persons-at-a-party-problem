@@ -1,0 +1,1 @@
+# 6-persons-at-a-party-problem
